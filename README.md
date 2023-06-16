@@ -1,7 +1,9 @@
 # OSOS-Full
  Online Sınav Otomasyon Sistemi (Online Exam Automation System)
 
-## İnternet Programcılığı II Final | Abdulkadir KOCER 
+## this. Abdulkadir KOCER . İnternet Programcılığı II Final ().subscribe(( d: Final )) => {
+##     this. OSOS-Full = d;
+## });
 
 
 ### API
